@@ -28,13 +28,13 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# Microcontrollers
+## Microcontrollers
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 [![ESP32](https://img.shields.io/badge/ESP32-FF8000?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 
 
-# Softwares, Frameworks and IDEs
+## Softwares, Frameworks and IDEs
 [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white)](https://www.sap.com/)
 [![V-REP](https://img.shields.io/badge/V--REP-CE2029?style=for-the-badge&logo=v-rep&logoColor=white)](http://www.coppeliarobotics.com/)
 [![ADS](https://img.shields.io/badge/ADS-FF3300?style=for-the-badge&logo=keysight&logoColor=white)](https://www.keysight.com/us/en/products/software/pathwave-design-software.html)
