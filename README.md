@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Robotics applied to HealthTech field.<br>👯 I’m looking to collaborate on Control and Robotics projects<br>🤝 I’m looking for help with Mechanical and CAD designs.<br>🌱 I’m currently learning Artificial Intelligence<br>💬 Ask me about Automatic Control strategies.<br>⚡ Fun fact - I'm an electrical engineer, but I'm working in a hospital. <br> :page_facing_up: [Curriculum Vitae (CV)](https://github.com/Jesse-Alves/Jesse-Alves/blob/main/Curriculum%20Vitae%20-%20Jess%C3%A9%20Alves%20-%2021-10-2023.pdf)
+🔭 I’m currently working on Robotics applied to HealthTech field.<br>👯 I’m looking to collaborate on Control and Robotics projects<br>🤝 I’m looking for help with Mechanical and CAD designs.<br>🌱 I’m currently learning Artificial Intelligence<br>💬 Ask me about Automatic Control strategies.<br> :page_facing_up: [Curriculum Vitae (CV)](https://github.com/Jesse-Alves/Jesse-Alves/blob/main/Curriculum%20Vitae%20-%20Jess%C3%A9%20Alves%20-%2021-10-2023.pdf)
 
 
 
